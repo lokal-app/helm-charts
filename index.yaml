@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  expo-open-ota:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-06-01T09:12:52.595011+05:30"
+    description: An open-source Go implementation of the Expo Updates protocol, designed
+      for production with support for cloud storage like S3 and CDN integration, delivering
+      fast and reliable OTA updates for React Native apps.
+    digest: fe68738176da6fc95ddcb247d93a737fd82cd0a073f38f417d627a8b6e3daea4
+    icon: https://avatars.githubusercontent.com/u/12605993?v=4
+    name: expo-open-ota
+    type: application
+    urls:
+    - expo-open-ota-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-06-01T09:12:52.595026+05:30"
