@@ -12,6 +12,6 @@ entries:
     name: expo-open-ota
     type: application
     urls:
-    - expo-open-ota-1.0.0.tgz
+    - https://github.com/lokal-app/helm-charts/releases/download/expo-open-ota-1.0.0/expo-open-ota-1.0.0.tgz
     version: 1.0.0
 generated: "2026-06-01T09:12:52.595026+05:30"
